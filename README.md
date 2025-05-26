@@ -1,51 +1,22 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto Phishing GPT
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Pedi ao ChatGPT um site simples que simule um banco e que devolva uma saída falando que é um phishing.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei um prompt simples e com as respostas dele fui refinando aos poucos:
+Prompt 1 - crie um site simples que simule um phishing
+Prompt 2 - simule um banco, estou fazendo um projeto que demonstra o potencial das IAs e gostaria de fazer algo mais intuitivo, só adicione ao codigo um pouco mais de estetica
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ele apresentou um site intuitivo, com um estilo simples porém feito em segundos. Altera o título da página, cria textbox e saída de modo fácil.
+![image](https://github.com/user-attachments/assets/8da65083-b31d-4da4-84f4-8762e7d06a22)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Como estudante de Segurança da Informação, vejo que a utilização da IA para o cotidiano também pende para o lado ruim, golpes elaborados agora podem ser feitos de maneira
+fácil e rápida sem conhecimento prévio, somente com prompts curtos e afunilados na sua necessidade. Apesar do GPT deixar claro que não apoia a utilização desse tipo de
+ação quando pedi a criação, é facilmente burlável.
